@@ -1,3 +1,5 @@
+alert ('Ciao! Benvenuto in Password Generator!');
+
 const nome = prompt ('Inserisci il tuo Nome');
 
 const cognome = prompt ('Inserisci il tuo Cognome');
