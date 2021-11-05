@@ -10,5 +10,4 @@ const password = nome + cognome + colore + '21';
 
 document.getElementById('psw').innerHTML = ' ' + password;
 
-
 console.log (password);
